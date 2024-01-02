@@ -25,6 +25,7 @@ PREREQUISITES FOR WORKING OF THE ABOVE FILE MONITORING SYSTEM -
    (If pip isn't available on the system , the installation procedure to install pip is mentioned in the below given video : https://youtu.be/fJKdIf11GcI?si=6sY-odhI1Qdiwb2B)
 
 2)Install pytz library using the command : pip install pytz
+3)Python IDE
 
 
 
